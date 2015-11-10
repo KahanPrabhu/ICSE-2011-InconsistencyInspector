@@ -1,7 +1,7 @@
 ## Instructions to set up VM using Vagrant.
 
 ### Steps:
-* Install [VirtualBox](https://www.virtualbox.org/) and [Vagrant](http://www.vagrantup.com/).
+* Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html).
 * Create a new directory and place this [VagrantFile](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-InconsistencyInspector/blob/master/build-vm/Vagrantfile) in it.
 * Navigate to this directory from terminal.
 * Run the command "vagrant up". This will create a new ubuntu 14.04 LTS virtual machine and install openjdk-1.7 in it.
