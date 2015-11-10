@@ -6,8 +6,11 @@ This repository <b><i>is NOT</i></b> the original repository for this tool.<br>
 * [The Official Project Page, including source code](https://bitbucket.org/rtholmes/inconsistencyinspectorresources/)
 <p>
 
-In this repository, for ReImInfer you will find:<br>
-* :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-InconsistencyInspector)<br>
+In this repository, for Inconsistency Inspector you will find:<br>
+* :x:  Source Code [Not available]
 * :x:  Binary [Not available]
 <p>
+
+<b>Note</b>
+This tool is not available for re-distribution.
 This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Reid Holmes for his help in establishing this repository.
